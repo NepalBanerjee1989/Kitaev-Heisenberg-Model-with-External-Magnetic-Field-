@@ -1,12 +1,12 @@
-C*******************************************************************C
-C*******************************************************************C
-C Monte-Carlo Simulation In Honeycomb Lattice With Heisenberg Spin  C
-C                Developing By Nepal Banerjee                       C
-C                University of Seoul,South-Korea                    C
-C                Email:nb.uos1989@gmail.com                         C
-C                     Date:28/11/2025                               C
-C*******************************************************************C
-C*******************************************************************C
+C***************************************************************************C
+C***************************************************************************C
+C Monte-Carlo Simulation In Honeycomb Lattice With Kitaev-Heisenberg Model  C
+C                Developing By Nepal Banerjee                               C
+C                University of Seoul,South-Korea                            C
+C                Email:nb.uos1989@gmail.com                                 C
+C                     Date:28/11/2025                                       C
+C***************************************************************************C
+C***************************************************************************C
           IMPLICIT NONE 
           INTEGER L,LSQ,itmx,itequi,itav,LMAX
           REAL*8 pi,th,phi,S
